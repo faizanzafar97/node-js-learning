@@ -1,0 +1,21 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "Learning Node.js and Express.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
